@@ -17,3 +17,7 @@
 	background-color: white;
 	padding : 4px;
 }
+.author{
+	text-align: right;
+	font-style : italic;
+}
